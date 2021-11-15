@@ -38,3 +38,17 @@ Cualquier duda con estos métodos pueden consultarla por el campus
 
 print('Ahora si! buena suerte')
 # Empezar aquí la resolución del ejercicio
+
+print('Escriba su nombre completo:')
+nombrecompleto = str(input())
+
+chiquito=nombrecompleto.lower()
+print(chiquito)
+
+grande = nombrecompleto.upper()
+print(grande)
+
+capital = nombrecompleto.capitalize()
+print(capital)
+
+
